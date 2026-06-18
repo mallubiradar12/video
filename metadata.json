@@ -1,0 +1,6 @@
+{
+  "name": "AutoTube Studio",
+  "description": "Production-ready automated faceless YouTube channel content builder SaaS workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
